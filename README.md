@@ -21,7 +21,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HNVS-GANESH-PICHIKA/views_counter/tree/master/readme/849790671/year.md">
+			<a href="https://github.com/nagpichikaganesh/views_counter/tree/master/readme/849790671/year.md">
 				Cipher-Assginments
 			</a>
 		</td>
@@ -32,19 +32,19 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			23
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/HNVS-GANESH-PICHIKA/views_counter/raw/master/graph/849790671/small/year.png" height="20"> 562
+			<img alt="Response time graph" src="https://github.com/nagpichikaganesh/views_counter/raw/master/graph/849790671/small/year.png" height="20"> 562
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/10/17 12:28 PM UTC</i></small>
+<small><i>Last updated on 2024/10/17 6:18 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
-[![Image of https://github.com/HNVS-GANESH-PICHIKA/views_counter](https://github.com/HNVS-GANESH-PICHIKA/views_counter/blob/master/svg/profile/badge.svg)](https://github.com/HNVS-GANESH-PICHIKA/views_counter)
+[![Image of https://github.com/nagpichikaganesh/views_counter](https://github.com/nagpichikaganesh/views_counter/blob/master/svg/profile/badge.svg)](https://github.com/nagpichikaganesh/views_counter)
 
 ```readme
-[![Image of https://github.com/HNVS-GANESH-PICHIKA/views_counter](https://github.com/HNVS-GANESH-PICHIKA/views_counter/blob/master/svg/profile/badge.svg)](https://github.com/HNVS-GANESH-PICHIKA/views_counter)
+[![Image of https://github.com/nagpichikaganesh/views_counter](https://github.com/nagpichikaganesh/views_counter/blob/master/svg/profile/badge.svg)](https://github.com/nagpichikaganesh/views_counter)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
