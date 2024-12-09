@@ -1,7 +1,7 @@
-## [🔙 views_counter](https://github.com/nagpichikaganesh/views_counter)
+## [🔙 views_counter](https://github.com/nags0x/views_counter)
 
-### :octocat: [Cipher-Assginments](https://github.com/nagpichikaganesh/Cipher-Assginments)
-![Image of views_counter](https://github.com/nagpichikaganesh/views_counter/blob/master/graph/849790671/large/year.png)
+### :octocat: [Cipher-Assginments](https://github.com/nags0x/Cipher-Assginments)
+![Image of views_counter](https://github.com/nags0x/views_counter/blob/master/graph/849790671/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/12/8 12:27 PM UTC</i></small>
+<small><i>Last updated on 2024/12/9 1:14 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of views_counter](https://github.com/nagpichikaganesh/views_counter/blob/master/svg/849790671/badge.svg)](https://github.com/nagpichikaganesh/views_counter/blob/master/readme/849790671/week.md)
+[![Image of views_counter](https://github.com/nags0x/views_counter/blob/master/svg/849790671/badge.svg)](https://github.com/nags0x/views_counter/blob/master/readme/849790671/week.md)
 ```readme
-[![Image of views_counter](https://github.com/nagpichikaganesh/views_counter/blob/master/svg/849790671/badge.svg)](https://github.com/nagpichikaganesh/views_counter/blob/master/readme/849790671/week.md)
+[![Image of views_counter](https://github.com/nags0x/views_counter/blob/master/svg/849790671/badge.svg)](https://github.com/nags0x/views_counter/blob/master/readme/849790671/week.md)
 ```
 ### Header
-# Cipher-Assginments [<img alt="Image of views_counter" src="https://github.com/nagpichikaganesh/views_counter/blob/master/graph/849790671/small/year.png" height="20">](https://github.com/nagpichikaganesh/views_counter/blob/master/readme/849790671/year.md)
+# Cipher-Assginments [<img alt="Image of views_counter" src="https://github.com/nags0x/views_counter/blob/master/graph/849790671/small/year.png" height="20">](https://github.com/nags0x/views_counter/blob/master/readme/849790671/year.md)
 ```readme
-# Cipher-Assginments [<img alt="Image of views_counter" src="https://github.com/nagpichikaganesh/views_counter/blob/master/graph/849790671/small/year.png" height="20">](https://github.com/nagpichikaganesh/views_counter/blob/master/readme/849790671/year.md)
+# Cipher-Assginments [<img alt="Image of views_counter" src="https://github.com/nags0x/views_counter/blob/master/graph/849790671/small/year.png" height="20">](https://github.com/nags0x/views_counter/blob/master/readme/849790671/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
